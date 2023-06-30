@@ -124,20 +124,20 @@ function App() {
         <div className="contact-container">
           <div className="footer-label">Contact</div>
           <a
-            href="tel:+916261392766"
+            href="tel:+91999999999"
             rel="noreferrer"
             target="_blank"
             className="footer-info"
           >
-            <Phone /> 62613 92766
+            <Phone /> +91 9999 99999
           </a>
           <a
-            href="https://wa.me/916261392766"
+            href="https://wa.me/91999999999"
             rel="noreferrer"
             target="_blank"
             className="footer-info"
           >
-            <Phone /> 62613 92766
+            <Phone /> +91 9999 99999
           </a>
           <a
             href="mailto:email@example.com"
