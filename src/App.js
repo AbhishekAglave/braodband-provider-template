@@ -111,14 +111,13 @@ function App() {
         <div className="address-container">
           <div className="footer-label">Address</div>
           <a
-            href="https://goo.gl/maps/JcHvxjPQwG6zkdrr5"
+            href="https://goo.gl/maps/9B3DsTEzBi47ra2s8"
             rel="noreferrer"
             target="_blank"
             className="footer-info"
           >
-            3rd Floor, Arihant Plaza, Amrapali Marg, opp. Crown Plaza, above
-            Indian overseas bank, Block F, Vaishali Nagar, Jaipur, Rajasthan
-            302021
+            9/639, Sarthi Marg, Akruti Apartments, Vaishali Nagar, Jaipur,
+            Rajasthan 302021
           </a>
         </div>
         <div className="contact-container">
